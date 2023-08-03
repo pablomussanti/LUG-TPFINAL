@@ -1,0 +1,72 @@
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\BLL\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\BLL\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\BLL\bin\Debug\BLL.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\BLL\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\BLL\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\BLL\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\BLL\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\BLL\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\BLL\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\BLL\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\BLL\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\BLL\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\BLL\obj\Debug\BLL.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\BLL\obj\Debug\BLL.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\BLL\obj\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\BLL\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\BLL\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\BLL\bin\Debug\BLL.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\BLL\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\BLL\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\BLL\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\BLL\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\BLL\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\BLL\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\BLL\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\BLL\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\BLL\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\BLL\obj\Debug\BLL.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\BLL\obj\Debug\BLL.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\BLL\obj\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\BLL\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\BLL\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\BLL\bin\Debug\BLL.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\BLL\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\BLL\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\BLL\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\BLL\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\BLL\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\BLL\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\BLL\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\BLL\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\BLL\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\BLL\obj\Debug\BLL.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\BLL\obj\Debug\BLL.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\BLL\obj\Debug\BLL.pdb
+H:\TP FINAL LUG\BLL\bin\Debug\BLL.dll
+H:\TP FINAL LUG\BLL\bin\Debug\BLL.pdb
+H:\TP FINAL LUG\BLL\bin\Debug\BLL.xml
+H:\TP FINAL LUG\BLL\bin\Debug\EE.dll
+H:\TP FINAL LUG\BLL\bin\Debug\MPP.dll
+H:\TP FINAL LUG\BLL\bin\Debug\DAL.dll
+H:\TP FINAL LUG\BLL\bin\Debug\EE.pdb
+H:\TP FINAL LUG\BLL\bin\Debug\EE.xml
+H:\TP FINAL LUG\BLL\bin\Debug\MPP.pdb
+H:\TP FINAL LUG\BLL\bin\Debug\MPP.xml
+H:\TP FINAL LUG\BLL\bin\Debug\DAL.pdb
+H:\TP FINAL LUG\BLL\bin\Debug\DAL.xml
+H:\TP FINAL LUG\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+H:\TP FINAL LUG\BLL\obj\Debug\BLL.Resources.resources
+H:\TP FINAL LUG\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+H:\TP FINAL LUG\BLL\obj\Debug\BLL.dll
+H:\TP FINAL LUG\BLL\obj\Debug\BLL.xml
+H:\TP FINAL LUG\BLL\obj\Debug\BLL.pdb

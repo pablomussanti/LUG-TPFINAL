@@ -1,0 +1,27 @@
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\EE\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\EE\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\EE\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\EE\obj\Debug\EE.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\EE\obj\Debug\EE.Resources.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\EE\obj\Debug\EE.vbproj.GenerateResource.Cache
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\EE\obj\Debug\EE.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\EE\obj\Debug\EE.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\EE\obj\Debug\EE.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\EE\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\EE\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\EE\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\EE\obj\Debug\EE.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\EE\obj\Debug\EE.Resources.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\EE\obj\Debug\EE.vbproj.GenerateResource.Cache
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\EE\obj\Debug\EE.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\EE\obj\Debug\EE.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\EE\obj\Debug\EE.pdb
+H:\TP FINAL LUG\EE\bin\Debug\EE.dll
+H:\TP FINAL LUG\EE\bin\Debug\EE.pdb
+H:\TP FINAL LUG\EE\bin\Debug\EE.xml
+H:\TP FINAL LUG\EE\obj\Debug\EE.vbprojResolveAssemblyReference.cache
+H:\TP FINAL LUG\EE\obj\Debug\EE.Resources.resources
+H:\TP FINAL LUG\EE\obj\Debug\EE.vbproj.GenerateResource.Cache
+H:\TP FINAL LUG\EE\obj\Debug\EE.dll
+H:\TP FINAL LUG\EE\obj\Debug\EE.xml
+H:\TP FINAL LUG\EE\obj\Debug\EE.pdb

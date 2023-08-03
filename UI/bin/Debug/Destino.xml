@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Destinos>
+  <Destino>
+    <Nombre> Catamarca </Nombre>
+    <Distancia> 200 </Distancia>
+  </Destino>
+  <Destino>
+    <Nombre>Mar del plata</Nombre>
+    <Distancia>100</Distancia>
+  </Destino>
+  <Destino>
+    <Nombre>cv</Nombre>
+    <Distancia>3</Distancia>
+  </Destino>
+  <Destino>
+    <Nombre>cv</Nombre>
+    <Distancia>3</Distancia>
+  </Destino>
+  <Destino>
+    <Nombre>fdf</Nombre>
+    <Distancia>2323</Distancia>
+  </Destino>
+  <Destino>
+    <Nombre>sdsd</Nombre>
+    <Distancia>23233</Distancia>
+  </Destino>
+</Destinos>

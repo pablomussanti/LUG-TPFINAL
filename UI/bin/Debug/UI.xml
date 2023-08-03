@@ -1,0 +1,229 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+UI
+</name>
+</assembly>
+<members>
+<member name="T:UI.My.Resources.Recurso">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso.Button1">
+<summary>
+  Busca una cadena traducida similar a Alta.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso.Button2">
+<summary>
+  Busca una cadena traducida similar a Modificacion.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso.Button3">
+<summary>
+  Busca una cadena traducida similar a Eliminar.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso.Button4">
+<summary>
+  Busca una cadena traducida similar a Verificar Regex.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso.GroupBox1">
+<summary>
+  Busca una cadena traducida similar a ABM Cliente.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso.Label1">
+<summary>
+  Busca una cadena traducida similar a Codigo Cliente.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso.Label2">
+<summary>
+  Busca una cadena traducida similar a Nombre.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso.Label3">
+<summary>
+  Busca una cadena traducida similar a Apellido.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso.Label4">
+<summary>
+  Busca una cadena traducida similar a Dni.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso.Label5">
+<summary>
+  Busca una cadena traducida similar a Fecha.
+</summary>
+</member>
+<member name="T:UI.My.Resources.Recurso2">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso2.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso2.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso2.Button1">
+<summary>
+  Busca una cadena traducida similar a Alta.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso2.Button2">
+<summary>
+  Busca una cadena traducida similar a Modificacion.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso2.Button3">
+<summary>
+  Busca una cadena traducida similar a Eliminar.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso2.Button4">
+<summary>
+  Busca una cadena traducida similar a Verificar Regex.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso2.GroupBox1">
+<summary>
+  Busca una cadena traducida similar a ABM destino.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso2.Label1">
+<summary>
+  Busca una cadena traducida similar a Codigo destino.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso2.Label2">
+<summary>
+  Busca una cadena traducida similar a Distancia.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso2.Label3">
+<summary>
+  Busca una cadena traducida similar a Nombre.
+</summary>
+</member>
+<member name="T:UI.My.Resources.Recurso3">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso3.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso3.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso3.Button1">
+<summary>
+  Busca una cadena traducida similar a Alta.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso3.Button2">
+<summary>
+  Busca una cadena traducida similar a Modificacion.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso3.Button3">
+<summary>
+  Busca una cadena traducida similar a Eliminar.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso3.Button4">
+<summary>
+  Busca una cadena traducida similar a Verificar Regex.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso3.GroupBox1">
+<summary>
+  Busca una cadena traducida similar a ABM viaje.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso3.Label1">
+<summary>
+  Busca una cadena traducida similar a Codigo Viaje.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso3.Label2">
+<summary>
+  Busca una cadena traducida similar a Codigo Cliente.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso3.Label3">
+<summary>
+  Busca una cadena traducida similar a Codigo Destino.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso3.Label4">
+<summary>
+  Busca una cadena traducida similar a Fecha.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso3.Label5">
+<summary>
+  Busca una cadena traducida similar a Dias.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso3.Label6">
+<summary>
+  Busca una cadena traducida similar a Precio.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso3.Label7">
+<summary>
+  Busca una cadena traducida similar a Tipo.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Recurso3.Label8">
+<summary>
+  Busca una cadena traducida similar a Primero = 10 x km     Economica = 5 x km.
+</summary>
+</member>
+<member name="T:UI.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:UI.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

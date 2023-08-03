@@ -1,0 +1,248 @@
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\bin\Debug\UI.exe.config
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\bin\Debug\UI.exe
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\bin\Debug\UI.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\bin\Debug\UI.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\bin\Debug\BLL.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\obj\Debug\UI.Resources.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\obj\Debug\UI.vbproj.GenerateResource.Cache
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\obj\Debug\UI.exe
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\obj\Debug\UI.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\obj\Debug\UI.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\obj\Debug\UI.LOGIN.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\obj\Debug\UI.MENU.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\obj\Debug\UI.Registro.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\obj\Debug\UI.Cliente.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\obj\Debug\UI.Destino.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\obj\Debug\UI.Viaje.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\obj\Debug\UI.XMLdestino.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\UI\obj\Debug\UI.Descodestino.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\bin\Debug\UI.exe.config
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.exe
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\bin\Debug\UI.exe
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\bin\Debug\UI.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\bin\Debug\UI.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\bin\Debug\BLL.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.Cliente.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.Descodestino.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.Destino.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.LOGIN.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.MENU.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.Resources.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.Registro.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.Viaje.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.XMLdestino.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.vbproj.GenerateResource.Cache
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.DescoCliente.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.chart.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.Descoviaje.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.Recurso.AR.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.Recurso.BR.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\bin\Debug\AR\UI.resources.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\bin\Debug\BR\UI.resources.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\AR\UI.resources.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\BR\UI.resources.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.Recurso.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\bin\Debug\en-US\UI.resources.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.Recurso.en-US.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\en-US\UI.resources.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.Recurso2.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.Recurso2.en-US.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.Recurso2.BR.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.Recurso2.AR.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.Recurso3.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.Recurso3.AR.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.Recurso3.BR.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.Recurso3.en-US.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.XMLcliente.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\UI\obj\Debug\UI.XML_viaje.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\bin\Debug\UI.exe.config
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.exe
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\bin\Debug\UI.exe
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\bin\Debug\UI.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\bin\Debug\UI.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\bin\Debug\AR\UI.resources.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\bin\Debug\BR\UI.resources.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\bin\Debug\en-US\UI.resources.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\bin\Debug\BLL.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\bin\Debug\BLL.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\bin\Debug\BLL.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.Recurso.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.Recurso2.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.Recurso3.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.chart.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.Cliente.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.DescoCliente.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.Descodestino.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.Descoviaje.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.Destino.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.LOGIN.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.MENU.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.Resources.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.Registro.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.Usuarionuevo.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.Usuarios.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.Viaje.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.XML_viaje.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.XMLcliente.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.XMLdestino.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.Recurso.AR.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.Recurso.BR.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.Recurso.en-US.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.Recurso2.en-US.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.Recurso2.BR.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.Recurso2.AR.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.Recurso3.AR.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.Recurso3.BR.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.Recurso3.en-US.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\UI.vbproj.GenerateResource.Cache
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\AR\UI.resources.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\BR\UI.resources.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\UI\obj\Debug\en-US\UI.resources.dll
+G:\TP FINAL LUG\UI\bin\Debug\UI.exe.config
+G:\TP FINAL LUG\UI\bin\Debug\UI.exe
+G:\TP FINAL LUG\UI\bin\Debug\UI.pdb
+G:\TP FINAL LUG\UI\bin\Debug\UI.xml
+G:\TP FINAL LUG\UI\bin\Debug\AR\UI.resources.dll
+G:\TP FINAL LUG\UI\bin\Debug\BR\UI.resources.dll
+G:\TP FINAL LUG\UI\bin\Debug\en-US\UI.resources.dll
+G:\TP FINAL LUG\UI\bin\Debug\BLL.dll
+G:\TP FINAL LUG\UI\bin\Debug\DAL.dll
+G:\TP FINAL LUG\UI\bin\Debug\EE.dll
+G:\TP FINAL LUG\UI\bin\Debug\MPP.dll
+G:\TP FINAL LUG\UI\bin\Debug\BLL.pdb
+G:\TP FINAL LUG\UI\bin\Debug\BLL.xml
+G:\TP FINAL LUG\UI\bin\Debug\DAL.pdb
+G:\TP FINAL LUG\UI\bin\Debug\DAL.xml
+G:\TP FINAL LUG\UI\bin\Debug\EE.pdb
+G:\TP FINAL LUG\UI\bin\Debug\EE.xml
+G:\TP FINAL LUG\UI\bin\Debug\MPP.pdb
+G:\TP FINAL LUG\UI\bin\Debug\MPP.xml
+G:\TP FINAL LUG\UI\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+G:\TP FINAL LUG\UI\obj\Debug\UI.Recurso.resources
+G:\TP FINAL LUG\UI\obj\Debug\UI.Recurso2.resources
+G:\TP FINAL LUG\UI\obj\Debug\UI.Recurso3.resources
+G:\TP FINAL LUG\UI\obj\Debug\UI.chart.resources
+G:\TP FINAL LUG\UI\obj\Debug\UI.Cliente.resources
+G:\TP FINAL LUG\UI\obj\Debug\UI.DescoCliente.resources
+G:\TP FINAL LUG\UI\obj\Debug\UI.Descodestino.resources
+G:\TP FINAL LUG\UI\obj\Debug\UI.Descoviaje.resources
+G:\TP FINAL LUG\UI\obj\Debug\UI.Destino.resources
+G:\TP FINAL LUG\UI\obj\Debug\UI.LOGIN.resources
+G:\TP FINAL LUG\UI\obj\Debug\UI.MENU.resources
+G:\TP FINAL LUG\UI\obj\Debug\UI.Resources.resources
+G:\TP FINAL LUG\UI\obj\Debug\UI.Registro.resources
+G:\TP FINAL LUG\UI\obj\Debug\UI.Usuarionuevo.resources
+G:\TP FINAL LUG\UI\obj\Debug\UI.Usuarios.resources
+G:\TP FINAL LUG\UI\obj\Debug\UI.Viaje.resources
+G:\TP FINAL LUG\UI\obj\Debug\UI.XML_viaje.resources
+G:\TP FINAL LUG\UI\obj\Debug\UI.XMLcliente.resources
+G:\TP FINAL LUG\UI\obj\Debug\UI.XMLdestino.resources
+G:\TP FINAL LUG\UI\obj\Debug\UI.Recurso.AR.resources
+G:\TP FINAL LUG\UI\obj\Debug\UI.Recurso.BR.resources
+G:\TP FINAL LUG\UI\obj\Debug\UI.Recurso.en-US.resources
+G:\TP FINAL LUG\UI\obj\Debug\UI.Recurso2.en-US.resources
+G:\TP FINAL LUG\UI\obj\Debug\UI.Recurso2.BR.resources
+G:\TP FINAL LUG\UI\obj\Debug\UI.Recurso2.AR.resources
+G:\TP FINAL LUG\UI\obj\Debug\UI.Recurso3.AR.resources
+G:\TP FINAL LUG\UI\obj\Debug\UI.Recurso3.BR.resources
+G:\TP FINAL LUG\UI\obj\Debug\UI.Recurso3.en-US.resources
+G:\TP FINAL LUG\UI\obj\Debug\UI.vbproj.GenerateResource.Cache
+G:\TP FINAL LUG\UI\obj\Debug\AR\UI.resources.dll
+G:\TP FINAL LUG\UI\obj\Debug\BR\UI.resources.dll
+G:\TP FINAL LUG\UI\obj\Debug\en-US\UI.resources.dll
+G:\TP FINAL LUG\UI\obj\Debug\UI.exe
+G:\TP FINAL LUG\UI\obj\Debug\UI.xml
+G:\TP FINAL LUG\UI\obj\Debug\UI.pdb
+H:\TP FINAL LUG\UI\bin\Debug\UI.exe.config
+H:\TP FINAL LUG\UI\obj\Debug\UI.exe
+H:\TP FINAL LUG\UI\obj\Debug\UI.xml
+H:\TP FINAL LUG\UI\obj\Debug\UI.pdb
+H:\TP FINAL LUG\UI\bin\Debug\UI.exe
+H:\TP FINAL LUG\UI\bin\Debug\UI.pdb
+H:\TP FINAL LUG\UI\bin\Debug\UI.xml
+H:\TP FINAL LUG\UI\bin\Debug\AR\UI.resources.dll
+H:\TP FINAL LUG\UI\bin\Debug\BR\UI.resources.dll
+H:\TP FINAL LUG\UI\bin\Debug\en-US\UI.resources.dll
+H:\TP FINAL LUG\UI\bin\Debug\BLL.dll
+H:\TP FINAL LUG\UI\bin\Debug\DAL.dll
+H:\TP FINAL LUG\UI\bin\Debug\EE.dll
+H:\TP FINAL LUG\UI\bin\Debug\MPP.dll
+H:\TP FINAL LUG\UI\bin\Debug\BLL.pdb
+H:\TP FINAL LUG\UI\bin\Debug\BLL.xml
+H:\TP FINAL LUG\UI\bin\Debug\DAL.pdb
+H:\TP FINAL LUG\UI\bin\Debug\DAL.xml
+H:\TP FINAL LUG\UI\bin\Debug\EE.pdb
+H:\TP FINAL LUG\UI\bin\Debug\EE.xml
+H:\TP FINAL LUG\UI\bin\Debug\MPP.pdb
+H:\TP FINAL LUG\UI\bin\Debug\MPP.xml
+H:\TP FINAL LUG\UI\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+H:\TP FINAL LUG\UI\obj\Debug\UI.Recurso.resources
+H:\TP FINAL LUG\UI\obj\Debug\UI.Recurso2.resources
+H:\TP FINAL LUG\UI\obj\Debug\UI.Recurso3.resources
+H:\TP FINAL LUG\UI\obj\Debug\UI.chart.resources
+H:\TP FINAL LUG\UI\obj\Debug\UI.Cliente.resources
+H:\TP FINAL LUG\UI\obj\Debug\UI.DescoCliente.resources
+H:\TP FINAL LUG\UI\obj\Debug\UI.Descodestino.resources
+H:\TP FINAL LUG\UI\obj\Debug\UI.Descoviaje.resources
+H:\TP FINAL LUG\UI\obj\Debug\UI.Destino.resources
+H:\TP FINAL LUG\UI\obj\Debug\UI.LOGIN.resources
+H:\TP FINAL LUG\UI\obj\Debug\UI.MENU.resources
+H:\TP FINAL LUG\UI\obj\Debug\UI.Resources.resources
+H:\TP FINAL LUG\UI\obj\Debug\UI.Registro.resources
+H:\TP FINAL LUG\UI\obj\Debug\UI.Usuarionuevo.resources
+H:\TP FINAL LUG\UI\obj\Debug\UI.Usuarios.resources
+H:\TP FINAL LUG\UI\obj\Debug\UI.Viaje.resources
+H:\TP FINAL LUG\UI\obj\Debug\UI.XML_viaje.resources
+H:\TP FINAL LUG\UI\obj\Debug\UI.XMLcliente.resources
+H:\TP FINAL LUG\UI\obj\Debug\UI.XMLdestino.resources
+H:\TP FINAL LUG\UI\obj\Debug\UI.Recurso.AR.resources
+H:\TP FINAL LUG\UI\obj\Debug\UI.Recurso.BR.resources
+H:\TP FINAL LUG\UI\obj\Debug\UI.Recurso.en-US.resources
+H:\TP FINAL LUG\UI\obj\Debug\UI.Recurso2.en-US.resources
+H:\TP FINAL LUG\UI\obj\Debug\UI.Recurso2.BR.resources
+H:\TP FINAL LUG\UI\obj\Debug\UI.Recurso2.AR.resources
+H:\TP FINAL LUG\UI\obj\Debug\UI.Recurso3.AR.resources
+H:\TP FINAL LUG\UI\obj\Debug\UI.Recurso3.BR.resources
+H:\TP FINAL LUG\UI\obj\Debug\UI.Recurso3.en-US.resources
+H:\TP FINAL LUG\UI\obj\Debug\UI.vbproj.GenerateResource.Cache
+H:\TP FINAL LUG\UI\obj\Debug\AR\UI.resources.dll
+H:\TP FINAL LUG\UI\obj\Debug\BR\UI.resources.dll
+H:\TP FINAL LUG\UI\obj\Debug\en-US\UI.resources.dll

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Viajes>
+  <Viaje>
+    <Codcliente>1</Codcliente>
+    <Coddestino>2</Coddestino>
+    <Fecha>10/10/1998</Fecha>
+    <Dias>10</Dias>
+    <Precio>1000</Precio>
+    <Tipo>Primera</Tipo>
+  </Viaje>
+  <Viaje>
+    <Codcliente>2</Codcliente>
+    <Coddestino>3</Coddestino>
+    <Tipo>Primera</Tipo>
+    <Dias></Dias>
+    <Precio>230</Precio>
+    <Fecha>jueves, 7 de diciembre de 2017</Fecha>
+  </Viaje>
+  <Viaje>
+    <Codcliente>2</Codcliente>
+    <Coddestino>3</Coddestino>
+    <Tipo>Primera</Tipo>
+    <Dias></Dias>
+    <Precio>230</Precio>
+    <Fecha>jueves, 7 de diciembre de 2017</Fecha>
+  </Viaje>
+  <Viaje>
+    <Codcliente>2</Codcliente>
+    <Coddestino>3</Coddestino>
+    <Tipo>Primera</Tipo>
+    <Dias>3</Dias>
+    <Precio>230</Precio>
+    <Fecha>jueves, 7 de diciembre de 2017</Fecha>
+  </Viaje>
+  <Viaje>
+    <Codcliente>4</Codcliente>
+    <Coddestino>5</Coddestino>
+    <Tipo>Primera</Tipo>
+    <Dias>2</Dias>
+    <Precio>340</Precio>
+    <Fecha>domingo, 17 de diciembre de 2017</Fecha>
+  </Viaje>
+  <Viaje>
+    <Codcliente>4</Codcliente>
+    <Coddestino>6</Coddestino>
+    <Tipo>Economica</Tipo>
+    <Dias>3</Dias>
+    <Precio>5</Precio>
+    <Fecha>domingo, 17 de diciembre de 2017</Fecha>
+  </Viaje>
+  <Viaje>
+    <Codcliente>5</Codcliente>
+    <Coddestino>6</Coddestino>
+    <Tipo>Primera</Tipo>
+    <Dias>1212</Dias>
+    <Precio>10</Precio>
+    <Fecha>miércoles, 20 de diciembre de 2017</Fecha>
+  </Viaje>
+</Viajes>

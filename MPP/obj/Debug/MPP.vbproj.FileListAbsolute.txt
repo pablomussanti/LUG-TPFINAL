@@ -1,0 +1,60 @@
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\MPP\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\MPP\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\MPP\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\MPP\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\MPP\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\MPP\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\MPP\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\MPP\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\MPP\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\MPP\obj\Debug\MPP.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\MPP\obj\Debug\MPP.Resources.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\MPP\obj\Debug\MPP.vbproj.GenerateResource.Cache
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\MPP\obj\Debug\MPP.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\MPP\obj\Debug\MPP.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Solution1\MPP\obj\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\MPP\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\MPP\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\MPP\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\MPP\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\MPP\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\MPP\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\MPP\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\MPP\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\MPP\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\MPP\obj\Debug\MPP.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\MPP\obj\Debug\MPP.Resources.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\MPP\obj\Debug\MPP.vbproj.GenerateResource.Cache
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\MPP\obj\Debug\MPP.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\MPP\obj\Debug\MPP.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\Final\MPP\obj\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\MPP\bin\Debug\MPP.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\MPP\bin\Debug\MPP.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\MPP\bin\Debug\MPP.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\MPP\bin\Debug\DAL.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\MPP\bin\Debug\EE.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\MPP\bin\Debug\DAL.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\MPP\bin\Debug\DAL.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\MPP\bin\Debug\EE.pdb
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\MPP\bin\Debug\EE.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\MPP\obj\Debug\MPP.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\MPP\obj\Debug\MPP.Resources.resources
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\MPP\obj\Debug\MPP.vbproj.GenerateResource.Cache
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\MPP\obj\Debug\MPP.dll
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\MPP\obj\Debug\MPP.xml
+C:\Users\Pablo\Desktop\Materias 2 cuatri\TP FINAL LUG\MPP\obj\Debug\MPP.pdb
+H:\TP FINAL LUG\MPP\bin\Debug\MPP.dll
+H:\TP FINAL LUG\MPP\bin\Debug\MPP.pdb
+H:\TP FINAL LUG\MPP\bin\Debug\MPP.xml
+H:\TP FINAL LUG\MPP\bin\Debug\DAL.dll
+H:\TP FINAL LUG\MPP\bin\Debug\EE.dll
+H:\TP FINAL LUG\MPP\bin\Debug\DAL.pdb
+H:\TP FINAL LUG\MPP\bin\Debug\DAL.xml
+H:\TP FINAL LUG\MPP\bin\Debug\EE.pdb
+H:\TP FINAL LUG\MPP\bin\Debug\EE.xml
+H:\TP FINAL LUG\MPP\obj\Debug\MPP.vbprojResolveAssemblyReference.cache
+H:\TP FINAL LUG\MPP\obj\Debug\MPP.Resources.resources
+H:\TP FINAL LUG\MPP\obj\Debug\MPP.vbproj.GenerateResource.Cache
+H:\TP FINAL LUG\MPP\obj\Debug\MPP.dll
+H:\TP FINAL LUG\MPP\obj\Debug\MPP.xml
+H:\TP FINAL LUG\MPP\obj\Debug\MPP.pdb

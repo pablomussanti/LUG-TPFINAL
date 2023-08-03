@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Clientes>
+  <Cliente>
+    <Nombre>1</Nombre>
+    <Apellido>2</Apellido>
+    <Dni>10/10/1998</Dni>
+    <Fecha>10</Fecha>
+  </Cliente>
+  <Cliente>
+    <Nombre>1</Nombre>
+    <Apellido>2</Apellido>
+    <Dni>3</Dni>
+    <Fecha>jueves, 7 de diciembre de 2017</Fecha>
+  </Cliente>
+  <Cliente>
+    <Nombre>1</Nombre>
+    <Apellido>2</Apellido>
+    <Dni>3</Dni>
+    <Fecha>jueves, 7 de diciembre de 2017</Fecha>
+  </Cliente>
+  <Cliente>
+    <Nombre>asd</Nombre>
+    <Apellido>asd</Apellido>
+    <Dni>123</Dni>
+    <Fecha>miércoles, 20 de diciembre de 2017</Fecha>
+  </Cliente>
+</Clientes>
